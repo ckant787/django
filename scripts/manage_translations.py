@@ -16,7 +16,7 @@
 # operation to the specified language or resource. For example, to get stats
 # for Spanish in contrib.admin, run:
 #
-#  $ python scripts/manage_translations.py lang_stats --language=es --resources=admin
+#  $ Python scripts/manage_translations.py lang_stats --language=es --resources=admin
 
 import os
 from argparse import ArgumentParser
